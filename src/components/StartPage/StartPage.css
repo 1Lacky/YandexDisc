@@ -1,0 +1,16 @@
+.StartPage{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 100%;
+}
+.StartButton{
+    display: block;
+    padding: 30px 50px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F2C200;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+}

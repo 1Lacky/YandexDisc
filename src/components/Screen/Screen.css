@@ -1,0 +1,46 @@
+.Title{
+    font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 29px;
+	color: #FFFFFF;
+    display: block;
+    padding: 20px 41px;
+    margin: 0;
+}
+.BackButton{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 0 20px 41px;
+    cursor: pointer;
+}
+.ScrinList{
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;
+    margin: 0px;
+    color: #fff;
+}
+.item{
+    cursor: pointer;
+    display: block;
+    list-style-type: none;
+    width: 149px;
+    margin-left: 41px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.itemTitle{
+    word-wrap:break-word;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    padding-top: 10px;
+    margin: 0;
+}
